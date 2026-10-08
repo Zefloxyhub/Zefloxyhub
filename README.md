@@ -1,10 +1,5 @@
 <img src="assets/banner.svg" width="100%" alt="Zefloxyhub, full-stack web developer. Storefront: Next.js, React. API: Express, Flask. Data: MongoDB, SQLite.">
 
-<p align="center">
-  <b>I build web apps that help businesses sell online and keep their customers coming back.</b><br>
-  <sub>Storefronts · checkout &amp; payments · admin dashboards · small-business tools</sub>
-</p>
-
 ### Engineering domains
 
 <img src="assets/domains.svg" width="100%" alt="Four domains. Frontend: Next.js and React interfaces, Tailwind CSS, dashboards and charts, PWA. Backend and APIs: Express REST API, Flask app, JWT authentication, data models. Commerce: checkout, Stripe, installment plans, orders and inventory. Real-time and data: Socket.io chat, MongoDB, SQLite, QR codes.">
