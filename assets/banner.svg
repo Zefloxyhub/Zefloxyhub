@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1000" height="150" viewBox="0 0 1000 150" role="img" aria-labelledby="t d">
 <title id="t">Zefloxyhub - Full-stack web developer</title>
-<desc id="d">Banner: Zefloxyhub, full-stack web developer. Layers built: storefront (Next.js, React), API (Express, Flask), data (MongoDB, SQLite).</desc>
+<desc id="d">Banner: Zefloxyhub, full-stack web developer. Layers built: frontend (React, TypeScript, Next.js), API (Express, Flask), data (MongoDB, SQLite).</desc>
 <style>.s{font-family:-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif} .m{font-family:ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace} .bar{transform-origin:36px 107px;animation:grow 1.2s ease-out both}@keyframes grow{from{transform:scaleX(0)}to{transform:scaleX(1)}}@media (prefers-reduced-motion: reduce){.bar{animation:none}}</style>
 <rect x="0.5" y="0.5" width="999" height="149" rx="14" fill="#0d1117" stroke="#30363d"/>
 <defs><pattern id="g" width="20" height="20" patternUnits="userSpaceOnUse"><circle cx="2" cy="2" r="1.1" fill="#21262d"/></pattern><linearGradient id="f" x1="0" x2="1"><stop offset="0" stop-color="#0d1117"/><stop offset="1" stop-color="#0d1117" stop-opacity="0"/></linearGradient></defs>
@@ -12,8 +12,8 @@
 <text x="36" y="132" class="s" font-size="18" font-weight="500" fill="#e6edf3" text-anchor="start" >Full-stack web developer</text>
 <rect x="610" y="22" width="354" height="30" rx="8" fill="#161b22" stroke="#30363d"/>
 <rect x="610" y="30" width="3" height="14" rx="1.5" fill="#f5b942"/>
-<text x="626" y="42" class="m" font-size="11" font-weight="700" fill="#f5b942" text-anchor="start" letter-spacing="1.5" >STOREFRONT</text>
-<text x="948" y="42" class="m" font-size="13" font-weight="400" fill="#e6edf3" text-anchor="end" >Next.js · React</text>
+<text x="626" y="42" class="m" font-size="11" font-weight="700" fill="#f5b942" text-anchor="start" letter-spacing="1.5" >FRONTEND</text>
+<text x="948" y="42" class="m" font-size="13" font-weight="400" fill="#e6edf3" text-anchor="end" >React · TypeScript · Next.js</text>
 <rect x="610" y="60" width="354" height="30" rx="8" fill="#161b22" stroke="#30363d"/>
 <rect x="610" y="68" width="3" height="14" rx="1.5" fill="#f5b942"/>
 <text x="626" y="80" class="m" font-size="11" font-weight="700" fill="#f5b942" text-anchor="start" letter-spacing="1.5" >API</text>
