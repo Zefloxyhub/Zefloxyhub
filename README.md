@@ -24,7 +24,7 @@
 
 ### By the numbers
 
-<img src="assets/charts.svg" width="100%" alt="Languages by source size across three public projects: JavaScript 83.1%, TypeScript 6.9%, CSS 4.0%, HTML 3.1%, Python 0.3%. Public contributions from January 2025 to October 2026: 5 in January 2025, 3 in May 2025, 1 in October 2025, 4 in October 2026. divine: latest, 83 files, last update 2026-10-08. Vantia-marketplace: prototype, 257 files, last update 2025-05-01. loyalwise: early MVP, 15 files, last update 2025-01-02.">
+<img src="assets/charts.svg" width="100%" alt="Languages by source size across three public projects: JavaScript 85.4%, TypeScript 7.1%, CSS 4.1%, HTML 3.2%, Python 0.3%. Public contributions from January 2025 to October 2026: 5 in January 2025, 3 in May 2025, 1 in October 2025, 4 in October 2026. divine: latest, 83 files, last update 2026-10-08. Vantia-marketplace: prototype, 257 files, last update 2025-05-01. loyalwise: early MVP, 15 files, last update 2025-01-02.">
 
 <sub>Snapshot of public GitHub data as of October 2026. Language share is the size of the source files in divine, Vantia-marketplace and loyalwise.</sub>
 
