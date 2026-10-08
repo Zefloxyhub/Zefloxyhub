@@ -43,12 +43,10 @@ I build complete web applications: the part customers see and click, the server 
 <details>
 <summary>Read as text</summary>
 
-| Domain | What it covers | Built in |
-|---|---|---|
-| **Frontend** | Next.js / React interfaces, Tailwind CSS design, dashboards and charts, PWA / offline page | Vantia, Loyalwise |
-| **Backend & APIs** | REST API with Express, Flask web app, JWT authentication, data models and routes | Vantia, Loyalwise |
-| **Commerce & payments** | Checkout flow, Stripe payments, installment plans, orders and inventory admin | Vantia |
-| **Real-time & data** | Socket.io live chat, MongoDB / Mongoose, SQLite / SQLAlchemy, QR-code generation | Vantia, Loyalwise |
+- **Frontend** (Vantia, Loyalwise): Next.js / React interfaces, Tailwind CSS design, dashboards and charts, PWA / offline page
+- **Backend & APIs** (Vantia, Loyalwise): REST API with Express, Flask web app, JWT authentication, data models and routes
+- **Commerce & payments** (Vantia): checkout flow, Stripe payments, installment plans, orders and inventory admin
+- **Real-time & data** (Vantia, Loyalwise): Socket.io live chat, MongoDB / Mongoose, SQLite / SQLAlchemy, QR-code generation
 
 </details>
 
