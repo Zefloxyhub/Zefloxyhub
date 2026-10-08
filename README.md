@@ -54,10 +54,6 @@ I build complete web applications: the part customers see and click, the server 
 
 ### Vantia: gold marketplace with installment payments
 
-<a href="https://github.com/Zefloxyhub/Vantia-marketplace">
-  <img src="assets/projects/vantia.png" width="100%" alt="Vantia landing page: 'Discover Exceptional Gold Investments' with Explore Collection and Payment Plans buttons.">
-</a>
-
 <img src="assets/badges/prototype.svg" alt="Status: prototype" height="22">
 
 **What it is.** An online shop for gold bars, coins and jewelry where buyers can spread the cost over several monthly payments instead of paying all at once. It includes a customer account area and a back-office for the store owner.
@@ -73,10 +69,6 @@ I build complete web applications: the part customers see and click, the server 
 <br>
 
 ### Loyalwise: QR-code loyalty cards for small businesses
-
-<a href="https://github.com/Zefloxyhub/loyalwise">
-  <img src="assets/projects/loyalwise.png" width="100%" alt="Loyalwise 'Create Loyalty Card' screen: a form for company details and points rules next to a live card preview.">
-</a>
 
 <img src="assets/badges/early-mvp.svg" alt="Status: early MVP" height="22">
 
