@@ -1,0 +1,58 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="640" height="516" viewBox="0 0 640 516" role="img" aria-labelledby="t d">
+<title id="t">Engineering domains</title>
+<desc id="d">Four domains backed by repositories. FRONTEND: Next.js / React interfaces, Tailwind CSS design, Dashboards &amp; charts, PWA / offline page (built in Vantia · Loyalwise). BACKEND &amp; APIs: REST API with Express, Flask web app, JWT authentication, Data models &amp; routes (built in Vantia · Loyalwise). COMMERCE &amp; PAYMENTS: Checkout flow, Stripe payments, Installment plans, Orders &amp; inventory admin (built in Vantia). REAL-TIME &amp; DATA: Socket.io live chat, MongoDB / Mongoose, SQLite / SQLAlchemy, QR-code generation (built in Vantia · Loyalwise).</desc>
+<style>.s{font-family:-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif} .m{font-family:ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace} </style>
+<rect x="0.5" y="0.5" width="639" height="515" rx="14" fill="#ffffff" stroke="#d0d7de"/>
+<rect x="16" y="16" width="296" height="230" rx="12" fill="#f6f8fa" stroke="#d0d7de"/>
+<text x="36" y="52" class="m" font-size="13" font-weight="600" fill="#57606a" text-anchor="start" >01</text>
+<text x="62" y="52" class="m" font-size="15" font-weight="700" fill="#b7791f" text-anchor="start" letter-spacing="1" >FRONTEND</text>
+<line x1="36" y1="68" x2="292" y2="68" stroke="#d0d7de"/>
+<rect x="38" y="94" width="6" height="6" rx="1.5" fill="#b7791f"/>
+<text x="54" y="100" class="s" font-size="16" font-weight="400" fill="#1f2328" text-anchor="start" >Next.js / React interfaces</text>
+<rect x="38" y="124" width="6" height="6" rx="1.5" fill="#b7791f"/>
+<text x="54" y="130" class="s" font-size="16" font-weight="400" fill="#1f2328" text-anchor="start" >Tailwind CSS design</text>
+<rect x="38" y="154" width="6" height="6" rx="1.5" fill="#b7791f"/>
+<text x="54" y="160" class="s" font-size="16" font-weight="400" fill="#1f2328" text-anchor="start" >Dashboards &amp; charts</text>
+<rect x="38" y="184" width="6" height="6" rx="1.5" fill="#b7791f"/>
+<text x="54" y="190" class="s" font-size="16" font-weight="400" fill="#1f2328" text-anchor="start" >PWA / offline page</text>
+<text x="36" y="228" class="m" font-size="13" font-weight="400" fill="#57606a" text-anchor="start" >Built in: Vantia · Loyalwise</text>
+<rect x="328" y="16" width="296" height="230" rx="12" fill="#f6f8fa" stroke="#d0d7de"/>
+<text x="348" y="52" class="m" font-size="13" font-weight="600" fill="#57606a" text-anchor="start" >02</text>
+<text x="374" y="52" class="m" font-size="15" font-weight="700" fill="#b7791f" text-anchor="start" letter-spacing="1" >BACKEND &amp; APIs</text>
+<line x1="348" y1="68" x2="604" y2="68" stroke="#d0d7de"/>
+<rect x="350" y="94" width="6" height="6" rx="1.5" fill="#b7791f"/>
+<text x="366" y="100" class="s" font-size="16" font-weight="400" fill="#1f2328" text-anchor="start" >REST API with Express</text>
+<rect x="350" y="124" width="6" height="6" rx="1.5" fill="#b7791f"/>
+<text x="366" y="130" class="s" font-size="16" font-weight="400" fill="#1f2328" text-anchor="start" >Flask web app</text>
+<rect x="350" y="154" width="6" height="6" rx="1.5" fill="#b7791f"/>
+<text x="366" y="160" class="s" font-size="16" font-weight="400" fill="#1f2328" text-anchor="start" >JWT authentication</text>
+<rect x="350" y="184" width="6" height="6" rx="1.5" fill="#b7791f"/>
+<text x="366" y="190" class="s" font-size="16" font-weight="400" fill="#1f2328" text-anchor="start" >Data models &amp; routes</text>
+<text x="348" y="228" class="m" font-size="13" font-weight="400" fill="#57606a" text-anchor="start" >Built in: Vantia · Loyalwise</text>
+<rect x="16" y="262" width="296" height="230" rx="12" fill="#f6f8fa" stroke="#d0d7de"/>
+<text x="36" y="298" class="m" font-size="13" font-weight="600" fill="#57606a" text-anchor="start" >03</text>
+<text x="62" y="298" class="m" font-size="15" font-weight="700" fill="#b7791f" text-anchor="start" letter-spacing="1" >COMMERCE &amp; PAYMENTS</text>
+<line x1="36" y1="314" x2="292" y2="314" stroke="#d0d7de"/>
+<rect x="38" y="340" width="6" height="6" rx="1.5" fill="#b7791f"/>
+<text x="54" y="346" class="s" font-size="16" font-weight="400" fill="#1f2328" text-anchor="start" >Checkout flow</text>
+<rect x="38" y="370" width="6" height="6" rx="1.5" fill="#b7791f"/>
+<text x="54" y="376" class="s" font-size="16" font-weight="400" fill="#1f2328" text-anchor="start" >Stripe payments</text>
+<rect x="38" y="400" width="6" height="6" rx="1.5" fill="#b7791f"/>
+<text x="54" y="406" class="s" font-size="16" font-weight="400" fill="#1f2328" text-anchor="start" >Installment plans</text>
+<rect x="38" y="430" width="6" height="6" rx="1.5" fill="#b7791f"/>
+<text x="54" y="436" class="s" font-size="16" font-weight="400" fill="#1f2328" text-anchor="start" >Orders &amp; inventory admin</text>
+<text x="36" y="474" class="m" font-size="13" font-weight="400" fill="#57606a" text-anchor="start" >Built in: Vantia</text>
+<rect x="328" y="262" width="296" height="230" rx="12" fill="#f6f8fa" stroke="#d0d7de"/>
+<text x="348" y="298" class="m" font-size="13" font-weight="600" fill="#57606a" text-anchor="start" >04</text>
+<text x="374" y="298" class="m" font-size="15" font-weight="700" fill="#b7791f" text-anchor="start" letter-spacing="1" >REAL-TIME &amp; DATA</text>
+<line x1="348" y1="314" x2="604" y2="314" stroke="#d0d7de"/>
+<rect x="350" y="340" width="6" height="6" rx="1.5" fill="#b7791f"/>
+<text x="366" y="346" class="s" font-size="16" font-weight="400" fill="#1f2328" text-anchor="start" >Socket.io live chat</text>
+<rect x="350" y="370" width="6" height="6" rx="1.5" fill="#b7791f"/>
+<text x="366" y="376" class="s" font-size="16" font-weight="400" fill="#1f2328" text-anchor="start" >MongoDB / Mongoose</text>
+<rect x="350" y="400" width="6" height="6" rx="1.5" fill="#b7791f"/>
+<text x="366" y="406" class="s" font-size="16" font-weight="400" fill="#1f2328" text-anchor="start" >SQLite / SQLAlchemy</text>
+<rect x="350" y="430" width="6" height="6" rx="1.5" fill="#b7791f"/>
+<text x="366" y="436" class="s" font-size="16" font-weight="400" fill="#1f2328" text-anchor="start" >QR-code generation</text>
+<text x="348" y="474" class="m" font-size="13" font-weight="400" fill="#57606a" text-anchor="start" >Built in: Vantia · Loyalwise</text>
+</svg>
